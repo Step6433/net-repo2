@@ -1,0 +1,4 @@
+В README ветки master присутствует фраза: with nice buttons on his jacket (buttons branch).
+Эта фраза отсутствует в README ветки demo.
+
+В удалённом репозитории видно 10 коммитов. Комментариев в них.
